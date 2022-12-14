@@ -1,2 +1,2 @@
 # REST API
-Theis is the REST API Documentation!
+This is the REST API Documentation!
